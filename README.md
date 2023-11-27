@@ -1,2 +1,13 @@
-# harmonium-mode-entanglement
- Code associated with publication on the determination of mode entanglement in bosonic and fermionic Harmonium in the presence of local super-selection rules
+# Mode Entanglement Calculation for Bosons and Fermions
+
+[![Generic badge](https://img.shields.io/badge/arXiv-2305.04899-<COLOR>.svg)](https://arxiv.org/abs/2305.04899)
+
+ Code associated with publication on the determination of mode entanglement in bosonic and fermionic Harmonium in the presence of local super-selection rules. The codebase contains a combination of Mathematica notebooks which were used to analytically calculate integrals corresponding to expectation values of the creation/annihilation operators associated with certain mode combinations in various spin configurations and for various particle numbers/spatial dimensions. N always denotes the number of particles and d the spatial dimension so N4d1 would correspond to a one-dimensional system with 4 particles, m corresponds to the mode index, such that m01 in a mode-mode entangled system would correspond to the modes indexed 0 and 1. This consisted in the bulk of the work and the majority of files are Mathematica notebooks labelled in this fashion. In some cases, the relative entropy of entanglement was calculated numerically with Matlab where we resorted to an [optimisation package](https://github.com/markwgirard/relEntropy) for input bipartite matrices. The plots shown in the paper were generated in python and are also shown.
+
+ For suspected errors or suggestions please get in touch with [me.](jan.ernst@physics.ox.ac.uk)
+
+ ## References
+
+ Ernst, J. O., & Tennie, F. (2022). Mode Entanglement in Fermionic and Bosonic Harmonium (Version 1). arXiv. https://doi.org/10.48550/ARXIV.2211.09647
+
+ M.W. Girard, Y. Zinchenko, S. Friedland, and G. Gour. Erratum: Numerical estimation of the relative entropy of entanglement. [Phys. Rev. A 91, 029901] (https://journals.aps.org/pra/abstract/10.1103/PhysRevA.91.029901) (2015).
