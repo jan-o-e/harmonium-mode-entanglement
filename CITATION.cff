@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ernst"
+  given-names: "Jan Ole"
+title: "Mode Entanglement in Harmonium"
+version: 1.0.0
+doi: 
+date-released: 2023-12-09
+url: "https://github.com/jan-o-e/harmonium-mode-entanglementt"
