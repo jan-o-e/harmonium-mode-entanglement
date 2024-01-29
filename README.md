@@ -2,6 +2,9 @@
 
 [![Generic badge](https://img.shields.io/badge/arXiv-2305.04899-<COLOR>.svg)](https://arxiv.org/abs/2305.04899)
 
+[![DOI](https://zenodo.org/badge/679003178.svg)](https://zenodo.org/badge/latestdoi/679003178)
+
+
 This repository contains code associated with a publication which describes the determination of mode entanglement in bosonic and fermionic Harmonium in the presence of local super-selection rules.
  
 The codebase contains a combination of Mathematica notebooks which were used to analytically calculate integrals corresponding to expectation values of the creation/annihilation operators associated with certain mode combinations in various spin configurations and for various particle numbers/spatial dimensions. N always denotes the number of particles and d the spatial dimension so N4d1 would correspond to a one-dimensional system with 4 particles, m corresponds to the mode index, such that m01 in a mode-mode entangled system would correspond to the modes indexed 0 and 1. This consisted in the bulk of the work and the majority of files are Mathematica notebooks labelled in this fashion. "N-RDO" corresponds to the N particle reduced density operator, the calculation of which is required for the determination of all the desired matrix elements.
