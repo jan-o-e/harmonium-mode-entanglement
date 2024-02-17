@@ -24,6 +24,6 @@ In some cases, the relative entropy of entanglement was calculated numerically w
 
  ## References
 
- Ernst, J. O., & Tennie, F. (2022). Mode Entanglement in Fermionic and Bosonic Harmonium (Version 1). arXiv. https://doi.org/10.48550/ARXIV.2211.09647
+ Ernst, J. O., & Tennie, F. (2024). Mode Entanglement in Fermionic and Bosonic Harmonium. In New Journal of Physics. IOP Publishing. https://doi.org/10.1088/1367-2630/ad240f
 
  M.W. Girard, Y. Zinchenko, S. Friedland, and G. Gour. Erratum: Numerical estimation of the relative entropy of entanglement. [Phys. Rev. A 91, 029901] (https://journals.aps.org/pra/abstract/10.1103/PhysRevA.91.029901) (2015).
